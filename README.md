@@ -1,2 +1,5 @@
 # one.cup
-just a test repository
+
+just do it
+be myself
+be yourself
